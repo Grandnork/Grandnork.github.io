@@ -174,7 +174,7 @@ nav .fas{
 .contact{
     margin: 5em auto;
     width: 70%;
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(/static/contact.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.562), rgba(0, 0, 0, 0.548)),url(/static/contact.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
