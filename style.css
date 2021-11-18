@@ -129,7 +129,8 @@ nav .fas{
 /* -- intro -- */
 .lang-icons i{
     font-size: 1.5rem;
-    cursor: pointer;       
+    cursor: pointer;
+    padding-left: 0.1em;      
 }
 .intro-col{
     width: 80%;
