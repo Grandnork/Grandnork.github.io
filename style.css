@@ -173,7 +173,7 @@ nav .fas{
 
 .contact{
     margin: 5em auto;
-    width: 50%;
+    width: 70%;
     background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(/static/contact.jpg);
     background-position: center;
     background-size: cover;
