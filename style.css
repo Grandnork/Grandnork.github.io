@@ -11,7 +11,6 @@
     width: 100%;
     background-image: url(/static/banner.jpg);
     background-position: center;
-    background-size: cover;
 }
 .nav
 {
@@ -25,6 +24,7 @@
 .nav img
 {
     width: 11em;
+    margin-left: 0.6em;
 }
 .nav-links p{
     text-align: right;
@@ -94,7 +94,9 @@
 .description {
     text-align: center;
     color: #f0f0f0;
-    padding: 0.4em;   
+    padding: 0.4em;
+    width: 70%; 
+    margin: auto;  
 }
 
 
@@ -132,7 +134,7 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.562), rgba(0, 0, 0, 0.548)),url(/static/contact.jpg);
     background-position: center;
     background-size:cover;
-    border-radius: 10px;
+    border-radius: 10px 10px 0 0;
     text-align: center;
 }
 .contact > p{
